@@ -7,6 +7,8 @@ Welcome to my profile! I am a passionate developer with experience in various pr
 
 <div>
   [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+  </div>
+  <div>
   [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 </div>
 
