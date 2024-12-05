@@ -1,8 +1,10 @@
 ![Banner Image](https://github.com/JesusVergara89/Practicing-Tailwind-01/blob/main/public/WEB%20DEVELOPER.png?raw=true)
 
-###
+# Hello, I am Jesus Vergara
+Welcome to my profile! I am a passionate developer with experience in various programming languages and frameworks.
 
-###
+### 
+
 ## I Code With
 <img align="right" height="150" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif"  />
 
