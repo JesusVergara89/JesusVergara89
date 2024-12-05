@@ -3,7 +3,6 @@
 # Hello, I am Jesus Vergara
 Welcome to my profile! I am a passionate developer with experience in various programming languages and frameworks.
 
-[Visita mi perfil de LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ### 
 
