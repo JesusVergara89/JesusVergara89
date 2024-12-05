@@ -5,12 +5,7 @@ Welcome to my profile! I am a passionate developer with experience in various pr
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-<div>
-  [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-  </div>
-  <div>
-  [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
-</div>
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 
 ### 
 
