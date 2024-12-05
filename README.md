@@ -1,4 +1,4 @@
-![Banner Image]([https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png](https://photos.google.com/share/AF1QipPdlrS3HYQTu9eBn8NCYVBPQhhz1hjslZkq08RwI4KwuT-Tp0Weo5tDLY3cy5ueAA/photo/AF1QipPnaO6-NL8qj_-D6IZnC3mCiD0eRSq5qaBf7vCm?key=dnJKY0t0UnBvYlhwN2VGZmY3NzdtN2w3YmE0OGd3))
+![Banner Image](https://github.com/JesusVergara89/Practicing-Tailwind-01/blob/main/public/WEB%20DEVELOPER.png?raw=true)
 
 ###
 
