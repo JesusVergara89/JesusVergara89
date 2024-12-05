@@ -5,6 +5,7 @@ Welcome to my profile! I am a passionate developer with experience in various pr
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+![GitHub Badge](https://img.shields.io/badge/GitHub-JesusVergara89-blue?style=flat-square&logo=github)
 
 ### 
 
