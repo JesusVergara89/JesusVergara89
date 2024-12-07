@@ -10,7 +10,6 @@ Welcome to my profile! I am a passionate developer with experience in various pr
 ### 
 
 ## I Code With
-<img align="right" height="150" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif"  />
 
 <a href="https://github.com/JesusVergara89"> 
 
@@ -56,6 +55,9 @@ Welcome to my profile! I am a passionate developer with experience in various pr
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="jQuery logo"  /> 
 </div>
 <a/>
+
+
+<img align="left" height="150" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif"  />
 
 ###
 <br>
