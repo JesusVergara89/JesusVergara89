@@ -3,6 +3,8 @@
 # Hello, I am Jesus Vergara
 Welcome to my profile! I am a passionate developer with experience in various programming languages and frameworks.
 
+<img align="left" height="150" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif"  />
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-JesusVergara89-blue?style=flat-square&logo=github)
@@ -56,8 +58,6 @@ Welcome to my profile! I am a passionate developer with experience in various pr
 </div>
 <a/>
 
-
-<img align="left" height="150" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif"  />
 
 ###
 <br>
